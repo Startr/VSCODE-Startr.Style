@@ -1,0 +1,28 @@
+{
+  "name": "Startr-Style-autocomplete",
+  "displayName": "Startr Style Autocomplete",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "html",
+        "extensions": [".html"]
+      },
+      {
+        "id": "javascriptreact",
+        "extensions": [".jsx"]
+      },
+      {
+        "id": "typescriptreact",
+        "extensions": [".tsx"]
+      }
+    ]
+  },
+  "main": "extension.js"
+}
