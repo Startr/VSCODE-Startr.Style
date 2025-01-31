@@ -128,3 +128,13 @@ For a deeper dive, please visit [Startr.Style](https://startr.style/) or explore
 ---
 
 **Enjoy building with Startr.Style and make styling a breeze!**  
+
+
+## Manual Install
+
+1. Download the latest release from the [our VSIX from the github repo](./startr-style-auto-completion-0.0.1.vsix) or clone the repo and build the extension yourself.
+2. Open VS Code and click on the Extensions icon in the Activity Bar on the side of the window.
+3. Click on the More Actions icon (3 horizontal dots) in the Extensions view and select Install from VSIX....
+4. Select the `.vsix` file you downloaded in step 1.
+5. Click Install to start the installation.
+![Install](./media/Install_Startr.Style_Suggest_vsix.gif)
