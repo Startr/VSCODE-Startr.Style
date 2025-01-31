@@ -1,8 +1,11 @@
 {
-  "name": "html-style-shorthand-ext",
-  "displayName": "HTML Style Shorthand Completion (JS)",
-  "description": "Suggests CSS property → shorthand completions inside an HTML style attribute.",
+  "name": "startr-style-auto-completion",
+  "displayName": "Startr.Style Auto Completion",
+  "description": "Suggests Startr.Style CSS property → shorthand completions inside an HTML style attribute.",
   "version": "0.0.1",
+  "publisher": "Startr LLC",
+  "icon": "media/icon.png",
+  "repository": "https://github.com/Startr/VSCODE-Startr.Style",
   "engines": {
     "vscode": "^1.75.0"
   },
