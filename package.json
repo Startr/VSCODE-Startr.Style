@@ -1,8 +1,8 @@
 {
-  "name": "startr-style-auto-completion",
-  "displayName": "Startr.Style Auto Completion",
+  "name": "startr-style-autocompletion",
+  "displayName": "Startr.Style Autocomplete for VS Code",
   "description": "Suggests Startr.Style CSS property → shorthand completions inside an HTML style attribute.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Startr-LLC",
   "icon": "media/icon.png",
   "repository": "https://github.com/Startr/VSCODE-Startr.Style",
