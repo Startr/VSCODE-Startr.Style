@@ -6,6 +6,7 @@
   "publisher": "Startr-LLC",
   "icon": "media/icon.png",
   "repository": "https://github.com/Startr/VSCODE-Startr.Style",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.75.0"
   },
